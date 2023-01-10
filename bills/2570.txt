@@ -1,0 +1,18 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 2570
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ Fair&Lovely		1		20
+ Bajaj		1		30
+ Bajaj		1		30
+
+ ===========================================
+ Sub Amount :	Rs.80.00
+ Tax Amount :	Rs.0.50
+ Total Amount :	Rs.80.50
+ ===========================================
+

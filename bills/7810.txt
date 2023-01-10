@@ -1,0 +1,18 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 7810
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ JackJonse		1		1700
+ JackJonse		1		1700
+ JackJonse		1		1700
+
+ ===========================================
+ Sub Amount :	Rs.5100.00
+ Tax Amount :	Rs.34.00
+ Total Amount :	Rs.5134.00
+ ===========================================
+

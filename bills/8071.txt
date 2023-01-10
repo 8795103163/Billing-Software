@@ -1,0 +1,18 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 8071
+ Customer Name : PHOOL CHAND VARUN
+ Phone Number : 8795103163
+ Customer Email : abc@gmail.com
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ RoadSter		2		3600
+ RedmePro		1		13000
+ Ponds		3		600
+
+ ===========================================
+ Sub Amount :	Rs.17200.00
+ Tax Amount :	Rs.170.00
+ Total Amount :	Rs.17370.00
+ ===========================================
+

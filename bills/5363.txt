@@ -1,0 +1,18 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 5363
+ Customer Name : PHOOLCHAND VARUN
+ Phone Number : 8795103163
+ Customer Email : abc@gmail.com
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ RoadSter		4		7200
+ Jashmiin		2		44
+ Iphone-12		1		85000
+
+ ===========================================
+ Sub Amount :	Rs.92244.00
+ Tax Amount :	Rs.72.44
+ Total Amount :	Rs.92316.44
+ ===========================================
+

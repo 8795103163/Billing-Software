@@ -1,0 +1,21 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 8321
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ Redme-12		1		12000
+ Redme-12		1		12000
+
+ ===========================================
+ Sub Amount :	Rs.48000.00
+
+
+ ===========================================
+ Sub Amount :	Rs.48000.00
+ Tax Amount :	Rs.360.00
+ Total Amount :	Rs.48360.00
+ ===========================================
+

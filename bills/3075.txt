@@ -1,0 +1,19 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 3075
+ Customer Name : fghfh
+ Phone Number : dsfssd
+ Customer Email : ghj
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ Ponds		1		200
+ Ponds		1		200
+ Ponds		1		200
+ Ponds		1		200
+
+ ===========================================
+ Sub Amount :	Rs.800.00
+ Tax Amount :	Rs.6.00
+ Total Amount :	Rs.806.00
+ ===========================================
+

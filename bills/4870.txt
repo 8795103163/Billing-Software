@@ -1,0 +1,18 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 4870
+ Customer Name : Phool
+ Phone Number : 879510
+ Customer Email : abc@gmail.com
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ Mufti		1		700
+ Ponds		1		200
+ RedmePro		1		13000
+
+ ===========================================
+ Sub Amount :	Rs.13900.00
+ Tax Amount :	Rs.9.00
+ Total Amount :	Rs.13909.00
+ ===========================================
+

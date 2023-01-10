@@ -1,0 +1,16 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 5719
+ Customer Name : phoolchND
+ Phone Number : 8795103163
+ Customer Email : ABC@GMAIL.COM
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ Polo		5		7500
+
+ ===========================================
+ Sub Amount :	Rs.7500.00
+ Tax Amount :	Rs.60.00
+ Total Amount :	Rs.7560.00
+ ===========================================
+

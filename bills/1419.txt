@@ -1,0 +1,18 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 1419
+ Customer Name : ghf
+ Phone Number : dgd
+ Customer Email : gfsh
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ Sumsung M12		1		17000
+ Sumsung M12		1		17000
+ Sumsung M12		1		17000
+
+ ===========================================
+ Sub Amount :	Rs.51000.00
+ Tax Amount :	Rs.340.00
+ Total Amount :	Rs.51340.00
+ ===========================================
+

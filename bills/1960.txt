@@ -1,0 +1,19 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 1960
+ Customer Name : phoolchand
+ Phone Number : 8795103163
+ Customer Email : abc@gmaail.com
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ Ponds		5		1000
+ Sumsung M12		1		17000
+ Louis Phillipe		2		5400
+ Mufti		2		1400
+
+ ===========================================
+ Sub Amount :	Rs.24800.00
+ Tax Amount :	Rs.241.00
+ Total Amount :	Rs.25041.00
+ ===========================================
+

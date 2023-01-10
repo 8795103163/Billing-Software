@@ -1,0 +1,19 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 4609
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ RoadSter		1		1800
+ RoadSter		1		1800
+ RoadSter		1		1800
+ RoadSter		1		1800
+
+ ===========================================
+ Sub Amount :	Rs.7200.00
+ Tax Amount :	Rs.54.00
+ Total Amount :	Rs.7254.00
+ ===========================================
+

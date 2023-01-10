@@ -1,0 +1,17 @@
+	Welcome Phoolchand Varun Moll
+ Bill Number : 1201
+ Customer Name : 
+ Phone Number : 
+ Customer Email : 
+ ===========================================
+ Products		QTY		Price
+ ===========================================
+ RedmePro		1		13000
+ RedmePro		1		13000
+
+ ===========================================
+ Sub Amount :	Rs.26000.00
+ Tax Amount :	Rs.130.00
+ Total Amount :	Rs.26130.00
+ ===========================================
+
